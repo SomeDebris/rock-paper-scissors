@@ -55,13 +55,22 @@
 
     {
         43006, 
-        extends     = 43004, 
+        extends     = 43004,        -- Standard Armor 
         blurb       = "Block ID: 43006\n\nA standard Rock Faction armor block.\n\nDurability: 1.5\nDensity: 1",
+        scale       = 2,
     },
 
     {
         43008,
-        extends     = 43004,
+        extends     = 43004,        -- Standard Armor 
         blurb       = "Block ID: 43008\n\nA standard Rock Faction armor block.\n\nDurability: 1.5\nDensity: 1",
+        scale       = 3,
+    },
+    
+    {
+        43010,
+        extends     = 43004,        -- Standard Armor 
+        blurb       = "Block ID: 43010\n\nA standard Rock Faction armor block.\n\nDurability: 1.5\nDensity: 1",
+        scale       = 4,
     },
 }
