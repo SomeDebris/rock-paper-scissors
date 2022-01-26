@@ -10,6 +10,7 @@
     features    = NOPALETTE,
     shape       = SQUARE,
     scale       = 2,
+    points      = -1,
 
     durability  = 1,
     density     = 1,
@@ -29,17 +30,19 @@
     features    = COMMAND|ASSEMBLER|GENERATOR|TRACTOR,
     shape       = COMMAND,
     scale       = 2,
+    points      = 50,
 },
 
 {
     43004,
     extends     = 43000,         -- ROCK Default
     name        = "Standard Armor",
-    blurb       = "Block ID: 43004\n\nA standard Rock Faction armor block.\n\nDurability: 1.5\nDensity: 1",
+    blurb       = "Block ID: 43004\n\nA standard Rock Faction armor block.\n\nDurability: 1.5\nDensity: 1.0",
 
     features    = PALETTE,
     shape       = SQUARE,
     scale       = 2, 
+    points      = -1,
 
     durability  = 1.5,
     density     = 1,
@@ -48,13 +51,13 @@
 {
     43006, 
     extends     = 43004,        -- Standard Armor 
-    blurb       = "Block ID: 43006\n\nA standard Rock Faction armor block.\n\nDurability: 1.5\nDensity: 1",
+    blurb       = "Block ID: 43006\n\nA standard Rock Faction armor block.\n\nDurability: 1.5\nDensity: 1.0",
     scale       = 3,
 },
 
 {
     43008,
     extends     = 43004,        -- Standard Armor 
-    blurb       = "Block ID: 43008\n\nA standard Rock Faction armor block.\n\nDurability: 1.5\nDensity: 1",
+    blurb       = "Block ID: 43008\n\nA standard Rock Faction armor block.\n\nDurability: 1.5\nDensity: 1.0",
     scale       = 4,
 },
