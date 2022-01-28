@@ -29,3 +29,5 @@ echo "Here's the start ID:    $startid"
 echo "Here's the blocks file: $blocksfile"
 
 grep '^ *[0-9]*,.*' "$blocksfile" --color=auto
+
+grep '^ *[0-9]*,.*' "$blocksfile" | sed 's/,//' | sed 's/ *//'
