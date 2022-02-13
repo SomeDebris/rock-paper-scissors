@@ -31,7 +31,7 @@ Located here:
 
 If the `mods/` directory doesn't exist, create it.
 
-Alternately, download this repository as a .zip file
+Alternately, download this repository as a .zip file, extract it, and put it in your `mods/` folder.
 
 ### note:
 
