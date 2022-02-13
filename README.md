@@ -20,7 +20,9 @@ _(I'm also using this project to learn how to use git and github, which is a ski
 This mod will be put on Steam eventually, the link will be here.
 
 Using git, clone this repository to your `mods/` folder:
-```git clone https://github.com/SomeDebris/rock-paper-scissors```
+```
+git clone https://github.com/SomeDebris/rock-paper-scissors
+```
 
 Located here:
 - Windows: `C:/Users/*You*/Saved Games/Reassembly/`
