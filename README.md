@@ -31,6 +31,8 @@ Located here:
 
 If the `mods/` directory doesn't exist, create it.
 
+Alternately, download this repository as a .zip file
+
 ### note:
 
 Don't expect much progress on this as time goes on; I update this only on my free time.
