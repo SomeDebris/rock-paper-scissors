@@ -60,38 +60,49 @@
     scale       = 4,
 },
 
+-- Granite Armor, shape RECT
 {
-    43010,
+    43010,      
     extends     = 43004,        -- Granite Armor
     blurb       = "Block ID: 43010\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
-    block       = RECT,
+    shape       = RECT,
     scale       = 1,
 },
 {
     43012,
     extends     = 43004,        -- Granite Armor
     blurb       = "Block ID: 43012\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
-    block       = RECT,
+    shape       = RECT,
     scale       = 2,
 },
 {
     43014,
     extends     = 43004,        -- Granite Armor
     blurb       = "Block ID: 43014\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
-    block       = RECT,
+    shape       = RECT,
     scale       = 3,
 },
 {
     43016,
     extends     = 43004,        -- Granite Armor
     blurb       = "Block ID: 43016\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
-    block       = RECT,
+    shape       = RECT,
     scale       = 4,
 },
 {
     43018,
     extends     = 43004,        -- Granite Armor
     blurb       = "Block ID: 43018\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
-    block       = RECT,
+    shape       = RECT,
     scale       = 5,
 },
+
+--  1 * 1 Right-tri, Granite
+{
+    43020,
+    extends     = 43004,        -- Granite Armor
+    blurb       = "Block ID: 43020\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
+    shape       = RIGHT_TRI,
+    scale       = 2,
+}
+
