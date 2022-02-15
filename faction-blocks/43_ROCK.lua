@@ -1,7 +1,5 @@
 -- The ROCK faction's blocks file.
 
-
-
 {   -- DEFAULT BLOCK for ROCK faction
     43000,
     group       = 43,
@@ -36,8 +34,8 @@
 {
     43004,
     extends     = 43000,         -- ROCK Default
-    name        = "Standard Armor",
-    blurb       = "Block ID: 43004\n\nA standard Rock Faction armor block.\n\nDurability: 1.5\nDensity: 1.0",
+    name        = "Granite Armor",
+    blurb       = "Block ID: 43004\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
 
     features    = PALETTE,
     shape       = SQUARE,
@@ -50,14 +48,50 @@
 
 {
     43006, 
-    extends     = 43004,        -- Standard Armor 
-    blurb       = "Block ID: 43006\n\nA standard Rock Faction armor block.\n\nDurability: 1.5\nDensity: 1.0",
+    extends     = 43004,        -- Granite Armor 
+    blurb       = "Block ID: 43006\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
     scale       = 3,
 },
 
 {
     43008,
-    extends     = 43004,        -- Standard Armor 
-    blurb       = "Block ID: 43008\n\nA standard Rock Faction armor block.\n\nDurability: 1.5\nDensity: 1.0",
+    extends     = 43004,        -- Granite Armor 
+    blurb       = "Block ID: 43008\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
     scale       = 4,
+},
+
+{
+    43010,
+    extends     = 43004,        -- Granite Armor
+    blurb       = "Block ID: 43010\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
+    block       = RECT,
+    scale       = 1,
+},
+{
+    43012,
+    extends     = 43004,        -- Granite Armor
+    blurb       = "Block ID: 43012\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
+    block       = RECT,
+    scale       = 2,
+},
+{
+    43014,
+    extends     = 43004,        -- Granite Armor
+    blurb       = "Block ID: 43014\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
+    block       = RECT,
+    scale       = 3,
+},
+{
+    43016,
+    extends     = 43004,        -- Granite Armor
+    blurb       = "Block ID: 43016\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
+    block       = RECT,
+    scale       = 4,
+},
+{
+    43018,
+    extends     = 43004,        -- Granite Armor
+    blurb       = "Block ID: 43018\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
+    block       = RECT,
+    scale       = 5,
 },
