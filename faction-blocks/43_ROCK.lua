@@ -84,3 +84,17 @@
     shape       = RIGHT_TRI,
     scale       = 2,
 },
+{
+    43022,
+    extends     = 43020,        -- Granite Armor (triangular)
+    blurb       = "Block ID: 43022\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
+    scale       = 3,
+},
+{
+    43024,
+    extends     = 43020,        -- Granite Armor (triangular)
+    blurb       = "Block ID: 43020\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
+    scale       = 4
+},
+
+
