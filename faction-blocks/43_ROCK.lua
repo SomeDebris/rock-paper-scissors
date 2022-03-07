@@ -96,5 +96,3 @@
     blurb       = "Block ID: 43020\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
     scale       = 4
 },
-
-
