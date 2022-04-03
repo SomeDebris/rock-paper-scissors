@@ -47,14 +47,12 @@
     durability  = 1.5,
     density     = 1,
 },
-
 {
     43006, 
     extends     = 43004,        -- Granite Armor SQUARE 
     blurb       = "Block ID: 43006\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
     scale       = 3,
 },
-
 {
     43008,
     extends     = 43004,        -- Granite Armor SQUARE 
