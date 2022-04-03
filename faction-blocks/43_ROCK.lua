@@ -23,7 +23,8 @@
     43002,
     extends     = 43000,         -- ROCK Default
     name        = "Rock Core",
-    blurb       = "Block ID: 43002\n\nThe command module of the Rock Faction.\n\nDurability: 1\nDensity: 1",
+    blurb       = "Block ID: 43002\nfeatures=COMMAND|ASSEMBLER|GENERATOR|TRACTOR\n\nThe command module of the Rock Faction.\n\nDurability: 1\nDensity: 1",
+    sort        = -100,
 
     features    = COMMAND|ASSEMBLER|GENERATOR|TRACTOR,
     shape       = COMMAND,
@@ -36,6 +37,7 @@
     extends     = 43000,         -- ROCK Default
     name        = "Granite Armor",
     blurb       = "Block ID: 43004\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
+    sort        = 1,
 
     features    = PALETTE,
     shape       = SQUARE,
@@ -92,7 +94,15 @@
 },
 {
     43024,
-    extends     = 43020,        -- Granite Armor (triangular)
+    extends     = 43020,        -- Granite Armor RIGHT_TRI
     blurb       = "Block ID: 43020\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
     scale       = 4
+},
+
+-- thrusters.
+{
+    43026,
+    extends     = 43000,        -- ROCK Default
+    name        = "BrickThrust™"
+    blurb       = "Block ID: 43026\n\nA generic Rock faction thruster.\n\nDurability: <VALUE>\nDensity: <VALUE>",
 },
