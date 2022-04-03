@@ -96,7 +96,7 @@
     43024,
     extends     = 43020,        -- Granite Armor RIGHT_TRI
     blurb       = "Block ID: 43020\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
-    scale       = 4
+    scale       = 4,
 },
 
 -- thrusters.
@@ -105,4 +105,8 @@
     extends     = 43000,        -- ROCK Default
     name        = "BrickThrust™"
     blurb       = "Block ID: 43026\n\nA generic Rock faction thruster.\n\nDurability: <VALUE>\nDensity: <VALUE>",
+
+    features    = THRUSTER,
+    shape       = DISH_THRUSTER,
+    scale       = 3
 },

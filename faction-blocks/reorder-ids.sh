@@ -1,5 +1,6 @@
 #!/bin/bash
 # pass a blocks file to this file with --blocks-file to reorder ids starting with --start-id
+<<<<<<< HEAD
 
 options=$(getopt -o b:s: --long help,blocks-file:,start-id:, -n 'reorder-ids' -- "$@")
 
@@ -31,3 +32,5 @@ echo "Here's the blocks file: $blocksfile"
 grep '^ *[0-9]*,.*' "$blocksfile" --color=auto
 
 grep '^ *[0-9]*,.*' "$blocksfile" | sed 's/,//' | sed 's/ *//'
+=======
+>>>>>>> d9d9fd4... added id-reordering script
