@@ -20,3 +20,8 @@
     --fillColor1  = 0x505050,
     --lineColor   = 0x101010,
 },
+
+{
+    44002,
+    --new block goes here
+}
