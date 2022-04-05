@@ -106,5 +106,9 @@
 
     features    = THRUSTER,
     shape       = DISH_THRUSTER,
-    scale       = 3
+    scale       = 3,
+
+    --thrusterForce   = #####,
+    --thruterBoost    = #####,
+    --thrusterdaggwegwb
 },
