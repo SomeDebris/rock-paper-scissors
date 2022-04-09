@@ -112,3 +112,9 @@
     --thruterBoost    = #####,
     --thrusterdaggwegwb
 },
+
+{
+    43028,
+    extends     = 43026,        -- BrickThrust™
+    blurb       = "Block ID: 43028\n\nA generic Rock faction thruster.\n\nDurability: <VALUE>\nDensity: <VALUE>",
+},
