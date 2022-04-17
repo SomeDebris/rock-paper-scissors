@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/mnt/c/Users/Magnus/Saved Games/Reassembly/mods/Rock Paper Scissors/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20220417.0/
+Deviations From Vanilla Faction Philosophy:	README.md	/^## Deviations From Vanilla Faction Philosophy:$/;"	s	chapter:Rock-Paper-Scissors [by Debris]
+Goals:	README.md	/^## Goals:$/;"	s	chapter:Rock-Paper-Scissors [by Debris]
+Installation:	README.md	/^## Installation:$/;"	s	chapter:Rock-Paper-Scissors [by Debris]
+Note:	README.md	/^## Note:$/;"	s	chapter:Rock-Paper-Scissors [by Debris]
+Rock-Paper-Scissors [by Debris]	README.md	/^# Rock-Paper-Scissors [by Debris]$/;"	c
+The PAPER faction	README.md	/^### The PAPER faction$/;"	S	section:Rock-Paper-Scissors [by Debris]""Deviations From Vanilla Faction Philosophy:
+The ROCK faction	README.md	/^### The ROCK faction$/;"	S	section:Rock-Paper-Scissors [by Debris]""Deviations From Vanilla Faction Philosophy:
