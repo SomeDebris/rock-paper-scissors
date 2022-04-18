@@ -36,15 +36,15 @@ I'm also using this project to learn how to use git and github, which is a skill
 
 ## Installation:
 
-# Steam
+#### Steam
 
 This mod will be put on Steam eventually, the link will be here.
 
-# Download .zip
+#### Download .zip
 
 Download this repository as a .zip file, extract it, and put it in your `mods/` folder.
 
-# Clone
+#### Clone
 
 Using git, clone this repository to your `mods/` folder:
 ```
