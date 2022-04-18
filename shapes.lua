@@ -8,7 +8,7 @@
     {
         430,
         {
-            {
+            {   -- SCALE 1
                 verts = {
                     {00.00, 10.00},
                     {20.00, 00.00},
@@ -23,15 +23,18 @@
 
                     {2, 0.50000},
                 }
-            }
-            {
+            },
+            {   -- SCALE 2
                 verts = {
                     {00.00, 20.00},
                     {40.00, 00.00},
                     {00.00, 00.00},
                 },
                 ports = {
-                    {0, 
+                    -- TODO: add actual ports for scale two
+                    {0, 0.2}
+                }
+            },
         }
     }
     {432, mirror_of=430, {}}    -- mirror of LONG TRI copy
