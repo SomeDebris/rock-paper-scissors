@@ -118,3 +118,8 @@
     extends     = 43026,        -- BrickThrust™
     blurb       = "Block ID: 43028\n\nA generic Rock faction thruster.\n\nDurability: <VALUE>\nDensity: <VALUE>",
 },
+{
+    43030,
+    extends     = 43026,        -- BrickThrust™
+    blurb       = "Block ID: 43030\n\nA generic Rock faction thruster.\n\nDurability: <VALUE>\nDensity: <VALUE>",
+},
