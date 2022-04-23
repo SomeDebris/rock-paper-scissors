@@ -2,9 +2,9 @@
 -- written by Debris
 -------START------
 
--- LONG-TRI WITH DIFFERENT MIRRORING STRATEGY
--- consider making it a braidedheadman tri?
 {
+    -- LONG-TRI WITH DIFFERENT MIRRORING STRATEGY
+    -- consider making it a braidedheadman tri?
     {
         430,
         {
@@ -60,5 +60,23 @@
         }
     }
     {432, mirror_of=430, {}}    -- mirror of LONG TRI copy
+    
+    -- ROCK FACTION RECTANGULAR THRUSTER
+    -- TODO: all scales
+    --       might not load!!
+    {
+        434,
+        {
+            {
+                verts = {
+                    {},
+                },
+                ports = {
+                    {},
+                },
+            },
+        }
+    }
+
 }
 
