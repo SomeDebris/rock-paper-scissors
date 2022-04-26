@@ -59,13 +59,13 @@
             }
         }
     }
-    {432, mirror_of=430, {}}    -- mirror of LONG TRI copy
+    {431, mirror_of=430, {}}    -- mirror of LONG TRI copy
     
     -- ROCK FACTION RECTANGULAR THRUSTER
     -- TODO: all scales
     --       might not load!!
     {
-        434,
+        432,
         {
             {
                 verts = {
@@ -77,6 +77,4 @@
             },
         }
     }
-
 }
-
