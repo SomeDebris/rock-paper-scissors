@@ -6,6 +6,7 @@
     -- LONG-TRI WITH DIFFERENT MIRRORING STRATEGY
     -- consider making it a braidedheadman tri?
     {
+        -- DF_L_TRI
         430,
         {
             {   -- SCALE 1
@@ -65,6 +66,7 @@
     -- TODO: all scales
     --       might not load!!
     {
+        -- R_RECT
         432,
         {
             {
