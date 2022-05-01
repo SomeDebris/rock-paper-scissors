@@ -19,6 +19,7 @@
     lineColor   = 0x101010,
 },
 
+-- Rock Core
 {
     43002,
     extends     = 43000,         -- ROCK Default
@@ -32,6 +33,7 @@
     points      = 50,
 },
 
+-- Granite Armor, shape SQUARE
 {
     43004,
     extends     = 43000,         -- ROCK Default
@@ -112,7 +114,6 @@
     --thruterBoost    = #####,
     --thrusterdaggwegwb
 },
-
 {
     43028,
     extends     = 43026,        -- BrickThrust™
