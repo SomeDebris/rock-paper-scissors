@@ -60,7 +60,9 @@
         mirror_of=430, 
         {}
     }    
-    {432,   -- SHAPE NAME
+
+-- TODO: CREATE BRICKTHRUST™ SHAPE
+    {432,   -- BK_THR_1
         {
             {   -- SCALE 1
                 verts = {
