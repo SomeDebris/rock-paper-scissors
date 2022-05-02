@@ -1,6 +1,7 @@
 -- The ROCK faction's blocks file.
 
-{   -- DEFAULT BLOCK for ROCK faction
+-- DEFAULT BLOCK for ROCK faction
+{   
     43000,
     group       = 43,
     name        = "Default Rock",
@@ -34,7 +35,7 @@
 },
 
 -- Granite Armor, shape SQUARE
-{
+{   -- SCALE 1
     43004,
     extends     = 43000,         -- ROCK Default
     name        = "Granite Armor",
@@ -49,13 +50,13 @@
     durability  = 1.5,
     density     = 1,
 },
-{
+{   -- SCALE 2
     43006, 
     extends     = 43004,        -- Granite Armor SQUARE 
     blurb       = "Block ID: 43006\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
     scale       = 3,
 },
-{
+{   -- SCALE 3
     43008,
     extends     = 43004,        -- Granite Armor SQUARE 
     blurb       = "Block ID: 43008\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
@@ -63,14 +64,14 @@
 },
 
 -- Granite Armor, shape RECT
-{
+{   -- SCALE 1
     43016,
     extends     = 43004,        -- Granite Armor SQUARE 
     blurb       = "Block ID: 43016\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
     shape       = RECT,
     scale       = 4,
 },
-{
+{   -- SCALE 2
     43018,
     extends     = 43004,        -- Granite Armor SQUARE 
     blurb       = "Block ID: 43018\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
@@ -78,21 +79,21 @@
     scale       = 5,
 },
 
---  1 * 1 Right-tri, Granite
-{
+-- Granite Armor, 1 * 1 Right-tri, 
+{   -- SCALE 1
     43020,
     extends     = 43004,        -- Granite Armor SQUARE 
     blurb       = "Block ID: 43020\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
     shape       = RIGHT_TRI,
     scale       = 2,
 },
-{
+{   -- SCALE 2
     43022,
     extends     = 43020,        -- Granite Armor RIGHT_TRI
     blurb       = "Block ID: 43022\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
     scale       = 3,
 },
-{
+{   -- SCALE 3
     43024,
     extends     = 43020,        -- Granite Armor RIGHT_TRI
     blurb       = "Block ID: 43020\n\nGranite Armor is mid-teir in the Rock faction.\n\nDurability: 1.5\nDensity: 1.0",
@@ -100,7 +101,7 @@
 },
 
 -- thrusters.
-{
+{   -- BrickThrust™ SCALE 1
     43026,
     extends     = 43000,        -- ROCK Default
     name        = "BrickThrust™"
@@ -114,12 +115,12 @@
     --thruterBoost    = #####,
     --thrusterdaggwegwb
 },
-{
+{   -- BrickThrust™ SCALE 2
     43028,
     extends     = 43026,        -- BrickThrust™
     blurb       = "Block ID: 43028\n\nA generic Rock faction thruster.\n\nDurability: <VALUE>\nDensity: <VALUE>",
 },
-{
+{   -- BrickThrust™ SCALE 3
     43030,
     extends     = 43026,        -- BrickThrust™
     blurb       = "Block ID: 43030\n\nA generic Rock faction thruster.\n\nDurability: <VALUE>\nDensity: <VALUE>",
