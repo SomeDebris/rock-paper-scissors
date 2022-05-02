@@ -3,11 +3,7 @@
 -------START------
 
 {
-    -- LONG-TRI WITH DIFFERENT MIRRORING STRATEGY
-    -- consider making it a braidedheadman tri?
-    {
-        -- DF_L_TRI
-        430,
+    {430,   -- DF_L_TRI
         {
             {   -- SCALE 1
                 verts = {
@@ -60,14 +56,11 @@
             }
         }
     }
-    {431, mirror_of=430, {}}    -- mirror of LONG TRI copy
-    
-    -- ROCK FACTION RECTANGULAR THRUSTER
-    -- TODO: all scales
-    --       might not load!!
-    {
-        -- R_RECT
-        432,
+    {431,   -- DF_R_TRI
+        mirror_of=430, 
+        {}
+    }    
+    {432,   -- SHAPE NAME
         {
             {   -- SCALE 1
                 verts = {
