@@ -79,7 +79,7 @@
     scale       = 5,
 },
 
--- Granite Armor, 1 * 1 Right-tri, 
+-- Granite Armor, 1 * 1 Right-tri
 {   -- SCALE 1
     43020,
     extends     = 43004,        -- Granite Armor SQUARE 
@@ -100,7 +100,7 @@
     scale       = 4,
 },
 
--- thrusters.
+-- thrusters
 {   -- BrickThrust™ SCALE 1
     43026,
     extends     = 43000,        -- ROCK Default
