@@ -127,3 +127,21 @@
     blurb       = "Block ID: 43030\n\nA generic Rock faction thruster.\n\nDurability: <VALUE>\nDensity: <VALUE>",
     scale       = 3,
 },
+{   -- BrickThrust™ SCALE 4
+    43032,
+    extends     = 43026,        -- BrickThrust™
+    blurb       = "Block ID: 43032\n\nA generic Rock faction thruster.\n\nDurability: <VALUE>\nDensity: <VALUE>",
+    scale       = 4,
+},
+{   -- BrickThrust™ SCALE 5
+    43034,
+    extends     = 43026,        -- BrickThrust™
+    blurb       = "Block ID: 43034\n\nA generic Rock faction thruster.\n\nDurability: <VALUE>\nDensity: <VALUE>",
+    scale       = 5,
+},
+{   -- BrickThrust™ SCALE 6
+    43036,
+    extends     = 43026,        -- BrickThrust™
+    blurb       = "Block ID: 43036\n\nA generic Rock faction thruster.\n\nDurability: <VALUE>\nDensity: <VALUE>",
+    scale       = 6,
+},
