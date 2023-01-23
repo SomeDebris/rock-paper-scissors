@@ -44,36 +44,36 @@
                     { 2, 0.75000 },
                 }
             },
-            {   -- SCALE 3
-                verts = {
-                    { 00.00, 30.00 },
-                    { 60.00, 00.00 },
-                    { 00.00, 00.00 },
-                },
-                ports = {
-                    -- TODO: add actual ports for scale 3
-                },
-            }
+            -- {   -- SCALE 3
+            --     verts = {
+            --         { 00.00, 30.00 },
+            --         { 60.00, 00.00 },
+            --         { 00.00, 00.00 },
+            --     },
+            --     ports = {
+            --         -- TODO: add actual ports for scale 3
+            --     },
+            -- }
         }
     }
-    {431,   -- DF_R_TRI
-        mirror_of=430, 
-        {}
+    {431, 
+        {},
+        mirror_of=430,  
     }    
 
 -- TODO: CREATE BRICKTHRUST™ SHAPE
-    {432,   -- BK_THR_1
-        {
-            {   -- SCALE 1
-                verts = {
-                    {},
-                },
-                ports = {
-                    {},
-                },
-            },
-        }
-    }
+    -- {432,   -- BK_THR_1
+    --     {
+    --         {   -- SCALE 1
+    --             verts = {
+    --                 {},
+    --             },
+    --             ports = {
+    --                 {},
+    --             },
+    --         },
+    --     }
+    -- }
     
     {434,   -- FULL_RECT_THR
         {
