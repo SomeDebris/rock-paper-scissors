@@ -108,8 +108,8 @@
     blurb       = "Block ID: 43026\n\nA generic Rock faction thruster.\n\nDurability: <VALUE>\nDensity: <VALUE>",
 
     features    = THRUSTER,
-    shape       = DISH_THRUSTER,
-    scale       = 3,
+    shape       = 434,
+    scale       = 1,
 
     --thrusterForce   = #####,
     --thruterBoost    = #####,
@@ -119,9 +119,11 @@
     43028,
     extends     = 43026,        -- BrickThrust™
     blurb       = "Block ID: 43028\n\nA generic Rock faction thruster.\n\nDurability: <VALUE>\nDensity: <VALUE>",
+    scale       = 2,
 },
 {   -- BrickThrust™ SCALE 3
     43030,
     extends     = 43026,        -- BrickThrust™
     blurb       = "Block ID: 43030\n\nA generic Rock faction thruster.\n\nDurability: <VALUE>\nDensity: <VALUE>",
+    scale       = 3,
 },
