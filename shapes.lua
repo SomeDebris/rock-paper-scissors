@@ -85,8 +85,8 @@
                     { 0.0,  5 },
                 },
                 ports = {
-                    { 1, 0.5, THRUSTER_OUT },
-                    { 3, 0.5, THRUSTER_IN },
+                    { 2, 0.5, THRUSTER_OUT },
+                    { 0, 0.5, THRUSTER_IN },
                 },
             },
             {   -- SCALE 2
@@ -97,8 +97,8 @@
                     { 0.0,  5 },
                 },
                 ports = {
-                    { 1, 0.5, THRUSTER_OUT },
-                    { 3, 0.5, THRUSTER_IN },
+                    { 2, 0.5, THRUSTER_OUT },
+                    { 0, 0.5, THRUSTER_IN },
                 },
             },
             {   -- SCALE 3
@@ -109,8 +109,8 @@
                     { 0.0,  5 },
                 },
                 ports = {
-                    { 1, 0.5, THRUSTER_OUT },
-                    { 3, 0.5, THRUSTER_IN },
+                    { 2, 0.5, THRUSTER_OUT },
+                    { 0, 0.5, THRUSTER_IN },
                 },
             },
             {   -- SCALE 4
@@ -121,8 +121,8 @@
                     { 0.0,  5 },
                 },
                 ports = {
-                    { 1, 0.5, THRUSTER_OUT },
-                    { 3, 0.5, THRUSTER_IN },
+                    { 2, 0.5, THRUSTER_OUT },
+                    { 0, 0.5, THRUSTER_IN },
                 },
             },
         }
