@@ -111,6 +111,9 @@
     shape       = 434,
     scale       = 1,
 
+    durability  = 1.5,
+    density     = 1.0,
+
     --thrusterForce   = #####,
     --thruterBoost    = #####,
     --thrusterdaggwegwb
