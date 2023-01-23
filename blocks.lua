@@ -6,6 +6,6 @@
 --  45 - Scissors
 
 {
-    #include "faction-blocks/43_ROCK.lua",
-    #include "faction-blocks/44_PAPER.lua",
+    #include "faction-blocks/43_ROCK.lua"
+    #include "faction-blocks/44_PAPER.lua"
 }
